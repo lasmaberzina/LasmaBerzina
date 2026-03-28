@@ -82,7 +82,7 @@
 
 ### ⚡ TERMINAL DATA
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lasmaberzina&show_icons=true&theme=tokyonight&bg_color=000000&title_color=f4e1c1&text_color=ffffff&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LasmaBerzina&show_icons=true&theme=tokyonight&bg_color=000000&title_color=f4e1c1&text_color=ffffff&hide_border=true" />
 </p>
 
 <div align="center">
