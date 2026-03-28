@@ -77,15 +77,3 @@
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity__(Surface)-2a2a2a?style=for-the-badge) ![AI](https://img.shields.io/badge/AI_Teacher-2a2a2a?style=for-the-badge&logo=openai&logoColor=cccccc) ![Prompting](https://img.shields.io/badge/Prompt__Engineering-f4e1c1?style=for-the-badge&logoColor=black)
 
 > "I taught adults what is AI, how to write correct prompts, and even how to teach their own simple model."
-
----
-
-### ⚡ TERMINAL DATA
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LasmaBerzina&show_icons=true&theme=tokyonight&bg_color=000000&title_color=f4e1c1&text_color=ffffff&hide_border=true" />
-</p>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/built_with-love-000000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/fueled_by-caffeine-f4e1c1?style=for-the-badge&logoColor=black" />
-</div>
